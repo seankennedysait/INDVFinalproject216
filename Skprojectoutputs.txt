@@ -1,0 +1,102 @@
+C:\Users\egosh\OneDrive\Desktop\Sait\Fall 22\Program\CPRG216>venv\Scripts\activate.bat
+
+(venv) C:\Users\egosh\OneDrive\Desktop\Sait\Fall 22\Program\CPRG216>python projectclasses.py
+Welcome to Alberta Hospital (AH) Managment system 
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
+3
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+1
+Facility                    Cost
+
+Facility1                   800
+
+Facility2                   1200
+
+Facility3                   500
+
+Facility4                   50
+
+Back to the prevoius Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+2
+Enter Laboratory facility:
+Facility5
+Enter Laboratory cost:
+250
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+1
+Facility                    Cost
+
+Facility1                   800
+
+Facility2                   1200
+
+Facility3                   500
+
+Facility4                   50
+
+Facility                    Cost
+
+Facility1                   800
+
+Facility2                   1200
+
+Facility3                   500
+
+Facility4                   50
+
+Facility5                   250
+
+Facility                    Cost
+
+Facility1                   800
+
+Facility2                   1200
+
+Facility3                   500
+
+Facility4                   50
+
+Facility                    Cost
+
+Facility1                   800
+
+Facility2                   1200
+
+Facility3                   500
+
+Facility4                   50
+
+Facility5                   250
+
+Back to the prevoius Menu
+Laboratories Menu:
+1 - Display laboratories list
+2 - Add laboratory
+3 - Back to the Main Menu
+
+3
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+
